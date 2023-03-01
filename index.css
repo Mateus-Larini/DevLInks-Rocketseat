@@ -27,7 +27,7 @@
 
 body {
     background: var(--bg-url) no-repeat top center/cover;
-    transition: all 400ms ease-in-out;
+    transition: all 500ms ease-in-out;
 }
 
 body * {
